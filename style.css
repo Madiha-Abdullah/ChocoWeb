@@ -1,0 +1,159 @@
+   * {
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   
+   .header {
+       background-color: black;
+       width: 100%;
+       height: 120px;
+   }
+   
+   .logo {
+       width: 150px;
+       height: 50px;
+       margin-top: -50px;
+       margin-left: 550px;
+   }
+   
+   #search {
+       margin-left: 1000px;
+       padding: 5px;
+       margin-top: 30px;
+       border-radius: 5px;
+   }
+   
+   nav {
+       margin-left: 330px;
+   }
+   
+   #nav {
+       margin-left: 50px;
+       color: #856a2f;
+   }
+   
+   #icon {
+       color: #d3d3d3;
+   }
+   
+   .covid {
+       width: 100%;
+       height: 50px;
+       background-color: #ecc47f;
+       text-align: center;
+       padding: 7px;
+       color: #8d5d3a;
+   }
+   
+   .card-deck {
+       margin-top: 30px;
+       margin-left: 30px;
+       width: 100%;
+   }
+   
+   .card-body {
+       margin-top: -130px;
+   }
+   
+   .card-title,
+   .card-text {
+       text-align: center;
+   }
+   
+   .card-footer {
+       text-align: center;
+       margin-top: -18px;
+   }
+   
+   .gold {
+       height: 400px;
+       background-image: url("images/gold1.png");
+       margin-top: 20px;
+   }
+   
+   .gpara {
+       margin-left: 180px;
+       padding-top: 60px;
+       font-size: 50px;
+   }
+   
+   .gpara1 {
+       margin-left: 190px;
+       margin-top: -20px;
+       font-size: 20px;
+   }
+   
+   .gpara2 {
+       margin-left: 192px;
+       margin-top: -15px;
+       font-size: 20px;
+       text-decoration: underline;
+   }
+   
+   .footer {
+       margin-top: 20px;
+       height: 330px;
+       background-color: black;
+   }
+   
+   .contact {
+       color: #624b1f;
+       padding-top: 50px;
+       margin-left: 80px;
+   }
+   
+   .details {
+       color: #ffffff;
+   }
+   
+   .business {
+       color: #624b1f;
+       margin-top: -100px;
+       margin-left: 350px;
+   }
+   
+   .customer {
+       color: #624b1f;
+       margin-top: -170px;
+       margin-left: 650px;
+   }
+   
+   .news {
+       color: #624b1f;
+       margin-top: -168px;
+       margin-left: 900px;
+   }
+   
+   .connect {
+       color: #624b1f;
+       margin-left: 900px;
+       margin-top: 50px;
+   }
+   
+   #social {
+       color: white;
+       font-size: 30px;
+   }
+   
+   .flag {
+       margin-left: 1100px;
+       margin-top: 30px;
+   }
+   
+   .top {
+       height: 50px;
+       width: 50px;
+       margin-left: 100px;
+       margin-top: -45px;
+   }
+   
+   .covid-info {
+       margin: 20px;
+   }
+   
+   #chocoslide {
+       margin-top: -20px;
+       margin-left: 10px;
+       text-align: center;
+       padding-top: 120px;
+       font-size: 72px;
+   }
